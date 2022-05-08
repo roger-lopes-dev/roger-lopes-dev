@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em uma loja de calçados e artigos esportivos como vendedor.
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, Sass, React, Bootstrap, NPM...
+- 🌱 Estou aprendendo HTML5, CSS3, JavaScript, Sass, React, Bootstrap, NPM...
 - 👯 Estou procurando colaborar em projetos relacionados ao front end web.
 - 💬 Pergunte-me sobre minhas habilidades e trabalho em equipe.
 - 📫 Como entrar em contato comigo: Whatsapp - (19) 99215-5675
