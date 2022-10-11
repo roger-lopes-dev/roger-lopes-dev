@@ -1,7 +1,7 @@
 ## Olá, me chamo Roger! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em uma loja de calçados e artigos esportivos como vendedor.
+- 🔭 Atualmente estou trabalhando em uma loja de calçados e artigos esportivos como vendedor, trabalhando como aprendiz em Magento 2 sua estrutura junto de um dev Sênior.
 - 🌱 Estou aprendendo HTML5, CSS3, JavaScript, Sass, React, Bootstrap, NPM...
 - 👯 Estou procurando colaborar em projetos relacionados ao front end web.
 - 💬 Pergunte-me sobre minhas habilidades e trabalho em equipe.
